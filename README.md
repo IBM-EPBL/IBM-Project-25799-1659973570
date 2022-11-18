@@ -19,6 +19,6 @@ Kidney disease often can get worse over time and may lead to kidney failure. If 
 
 ### Steps 
 
-1. Account Login using userid and password.
-2. Predicting the result using given information like white blood cell count, red blood cell count, age, sugar, hemoglobin, etc.
-3. Giving the result using the information whether you have kidney disease or not.
+1. Login the Chronic Kidney Disease Prediction website using password.
+2. Informations like white blood cell count, red blood cell count, age, sugar, hemoglobin, etc are obtained from the user.
+3. Result is predicted based on the informations collected from the users.
